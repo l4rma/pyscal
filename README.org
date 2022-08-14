@@ -1,0 +1,9 @@
+#+title: README
+#+author: Lars M
+
+* Pyscal
+A pascal interpreter written in python.
+
+This is a work in progress, following a great guide made by Ruslan from his blog: [[https://ruslanspivak.com/lsbasi-part1/][Let's build a simple interpreter]].
+
+I'm doing this project to learn better how interpreters work.
